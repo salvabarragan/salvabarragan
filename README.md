@@ -13,7 +13,8 @@ Cybersecurity and Cryptography.
 
 ## Projects
 
-🔧 Engineering Playground
+🔧 [Engineering Playground](https://www.github.com/salvabarragan/engineering-playground)
+
 A CLI task manager built to learn how a real software project
 works, including Git, GitHub, testing and documentation.
 
@@ -21,4 +22,5 @@ More projects coming soon...
 
 ## Links
 
-🌐 salvabarragan.com
+- 🌐 [salvabarragan.com](https://www.salvabarragan.com)
+- ✉️ hello@salvabarragan.com
