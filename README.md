@@ -29,4 +29,4 @@ More projects coming soon...
 ## Links
 
 - 🌐 [salvabarragan.com](https://www.salvabarragan.com)
-- ✉️ salva@salvabarragan.com
+- ✉️ hello@salvabarragan.com
