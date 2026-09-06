@@ -18,9 +18,15 @@ Cybersecurity and Cryptography.
 A CLI task manager built to learn how a real software project
 works, including Git, GitHub, testing and documentation.
 
+🛡️ [Password Security Analyzer](https://www.github.com/salvabarragan/password-security-analyzer)
+
+A CLI password analyzer built to study password security by evaluating
+length, character diversity, common patterns, transformations and
+similarity to known passwords.
+
 More projects coming soon...
 
 ## Links
 
 - 🌐 [salvabarragan.com](https://www.salvabarragan.com)
-- ✉️ hello@salvabarragan.com
+- ✉️ salva@salvabarragan.com
